@@ -36,3 +36,6 @@ for group in groupList:
         group.add_users(gebruiker)
         print('\t\tUser ' + str(gebruiker.username) + " added to " + group.title)
 ```
+
+### License
+Please feel free to use this script, improve upon it, and share it back to me! I do enjoy a mention.
